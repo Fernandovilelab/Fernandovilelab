@@ -35,5 +35,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="google cloud logo" />
 </div>
-
-<img src="https://raw.githubusercontent.com/Fernandovilelab/Fernandovilelab/output/snake.svg" alt="Snake animation" />
