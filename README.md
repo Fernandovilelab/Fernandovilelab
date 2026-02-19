@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  My name is Fernando, I'm an undergraduate Computer Science student at UFMG and currently working as a Data Scientist at MRV&CO.
+  My name is Fernando, I'm a Data Scientist at MRV&CO.
 </p>
 
 <h2 align="left">Connect with me</h2>
